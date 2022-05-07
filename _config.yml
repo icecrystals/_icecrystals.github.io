@@ -3,3 +3,5 @@ description: 夏和帆的博客
 show_downloads: false
 google_analytics: G-YX76K9MB25
 theme: jekyll-theme-modernist
+github:
+  is_project_page: false
