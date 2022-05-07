@@ -16,11 +16,6 @@ layout: default
 ### 📌 最新文章 
 
 
-<div class="blog-index">  
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
-</div>
 ---
 
 ### 📌 最新练字
