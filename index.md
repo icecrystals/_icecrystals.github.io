@@ -15,6 +15,7 @@ layout: default
 
 ### 📌 最新文章 
 
+{% assign post = site.posts.first %}
 
 ---
 
