@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 购得新域名Hao.Ink
+title: 使用HTTrack和Github进行网站“硬核备份”
 comments: true
 ---
 
