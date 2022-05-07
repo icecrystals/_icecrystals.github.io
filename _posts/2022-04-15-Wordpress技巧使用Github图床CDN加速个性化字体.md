@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Wordpress技巧：使用Github图床；CDN加速个性化字体
 comments: true
 ---
 
