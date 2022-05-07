@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 购得新域名Hao.Ink
+title: 搬出 Student Village
 comments: true
 ---
 
