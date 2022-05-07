@@ -6,6 +6,6 @@
 
 ---
 
-管理员快捷方式：[图片上传](https://github.com/xiangshuink/xiangshuink.github.io/tree/main/assets) [添加记录](https://github.com/xiangshuink/xiangshuink.github.io/tree/main/posts/lianzi)
+管理员快捷方式：[图片上传](https://github.com/icecrystals/icecrystals.github.io/tree/master/assets) [添加记录](https://github.com/icecrystals/icecrystals.github.io/tree/master/page/lianzi)
 
 ---
