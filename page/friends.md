@@ -14,7 +14,7 @@ comments: true
 
 名称：好墨 
 
-介绍：夏和帆的生活向闲谈
+介绍：夏和帆的博客
 
 头像： [头像链接](https://github.com/xiangshuink/xiangshuink.github.io/raw/main/favicon.ico)
 
