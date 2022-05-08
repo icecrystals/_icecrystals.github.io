@@ -16,7 +16,7 @@ comments: true
 
 介绍：夏和帆的博客
 
-头像： [头像链接](https://github.com/xiangshuink/xiangshuink.github.io/raw/main/favicon.ico)
+头像： [头像链接](https://raw.githubusercontent.com/icecrystals/icecrystals.github.io/master/favicon.png)
 
 ---
 
