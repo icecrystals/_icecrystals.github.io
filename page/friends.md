@@ -18,6 +18,8 @@ comments: true
 
 头像： [头像链接](https://raw.githubusercontent.com/icecrystals/icecrystals.github.io/master/favicon.png)
 
+**特别欢迎我的老乡（西安、咸阳、陕西），与喜欢书法（硬笔、软笔）的博友添加友链 ^_^**
+
 ---
 
 - [木遥的窗子](http://blog.farmostwood.net)
