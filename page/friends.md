@@ -24,11 +24,15 @@ comments: true
 
 ---
 
+**PhDs**
+
 - [木遥的窗子](http://blog.farmostwood.net)
 - [大鹏志](http://www.pzhao.org/zh/)
 - [谢毅辉的博客](https://yihui.name/)
 - [生如夏花](http://www.xiatian.name/)
 - [狡猫三窝](https://slykiten.com/)
+
+**老朋友**
 
 - [熊猫小A - 持续中二，偶尔 Geek。](https://blog.imalan.cn)
 - [渚碧 - 我欲種菜 亦植薔薇](https://jubeny.com/)
@@ -59,6 +63,7 @@ comments: true
 - [Usubeni Fantasy](https://ssshooter.com/)
 - [攻城狮笔记](http://qumac.com/)
 
+**新朋友**
  
 - [代代付 - I'm 代代付](https://ddf.im)
 - [Null - 一间生活](https://ncnccn.cn)
@@ -66,12 +71,20 @@ comments: true
 
 ---
 
-Xi'an Related ...
+**与陕西有关**
 
 - [长安城下 - 大雁塔上唐僧梦 · 长安城下女儿情](https://cacx.cc)
 
+---
+
+**Ink友链~**
+
+- [无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
+
 
 ---
+
+**博客社群**
 - [十年之约 - 个人网站聚合](https://www.foreverblog.cn)
 
 
