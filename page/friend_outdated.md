@@ -4,9 +4,9 @@
 
 长时间未更新友链
 - [诗与酒 - 一个爱鼓捣前端的产品汪](https://shawnzeng.com/)
-- - [Rin404° - 取一份自信，泊一份沉着。](https://m.rin404.com/)
-- - [恶魔菌 - 二次元神楽坂一只](http://meow3.family.blog)
-- - [宇宙湾 - 主要是大数据和人工智能的原创文章。](https://yuzhouwan.com/)
+- [Rin404° - 取一份自信，泊一份沉着。](https://m.rin404.com/)
+- [恶魔菌 - 二次元神楽坂一只](http://meow3.family.blog)
+- [宇宙湾 - 主要是大数据和人工智能的原创文章。](https://yuzhouwan.com/)
 
 
 已失效友链
