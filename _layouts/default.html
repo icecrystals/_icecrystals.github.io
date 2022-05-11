@@ -47,7 +47,30 @@
     {% if site.github.is_project_page %}
       <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     {% endif %}
-      <p>关于：这是我的个人小站，主要用来分享练字记录和生活日常。<br> ©好墨HaoInk 2021-2022 (原夏和帆的博客 2018-2021) <a href="https://github.com/icecrystals/icecrystals.github.io">管理员登录</a> </p>
+      <p>
+        
+        
+        
+        {% assign count = 0 %}
+{% for post in site.posts %}
+    {% assign single_count = post.content | strip_html | strip_newlines | remove: " " | size %}
+    {% assign count = count | plus: single_count %}
+{% endfor %}
+
+{% if count > 10000 %}
+    全站字数统计： {{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }} 字
+{% else %}
+    全站字数统计： {{ count }} 字
+{% endif %} 
+        
+        
+        
+        
+        
+        
+        
+        
+        <br> ©好墨HaoInk 2021-2022 (原夏和帆的博客 2018-2021) <a href="https://github.com/icecrystals/icecrystals.github.io">管理员登录</a> </p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
