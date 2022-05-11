@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div align=center>
-<img src="/assets/kfKP-hacuuvu3491838.gif" width="600">
-</div>
+<img src="/assets/kfKP-hacuuvu3491838.gif" width="400">
+
+---
 
 欢迎!
 
