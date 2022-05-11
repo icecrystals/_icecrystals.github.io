@@ -8,3 +8,6 @@ github:
   is_project_page: false
 plugins:
   - jekyll-feed
+  
+paginate: 10
+paginate_path: /page/:num
