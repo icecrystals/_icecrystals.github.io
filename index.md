@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<img src="/assets/bZZA-hacuuvu3491914.gif" width="600">
+<img src="/assets/kfKP-hacuuvu3491838.gif" width="600">
 
 
 欢迎！这是我的个人小站，主要记录自己的练字历程、日常分享、所思所想、所见所闻等。随便看看吧！
 
----
-
-<a href="https://info.flagcounter.com/uG1W"><img src="https://s05.flagcounter.com/count/uG1W/bg_E8E8E8/txt_9E9E9E/border_E8E8E8/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
