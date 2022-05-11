@@ -58,9 +58,9 @@
 {% endfor %}
 
 {% if count > 10000 %}
-    全站字数统计： {{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }} 字
+    文章字数统计： {{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }} 字
 {% else %}
-    全站字数统计： {{ count }} 字
+    文章字数统计： {{ count }} 字
 {% endif %} 
         
         
