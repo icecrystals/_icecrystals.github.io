@@ -24,13 +24,17 @@ comments: true
 
 ---
 
-**PhDs**
+**新朋友** 
 
-- [木遥的窗子](http://blog.farmostwood.net)
-- [大鹏志](http://www.pzhao.org/zh/)
-- [谢毅辉的博客](https://yihui.name/)
-- [生如夏花](http://www.xiatian.name/)
-- [狡猫三窝](https://slykiten.com/)
+（这里是更改域名后新加的友链~）
+
+- [代代付 - I'm 代代付](https://ddf.im)
+- [长安城下 - 大雁塔上唐僧梦 · 长安城下女儿情](https://cacx.cc)
+- [无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
+- [Null - 一间生活](https://ncnccn.cn)
+- [Jdeal - Life is like a Design](https://www.jdeal.cn)
+
+---
 
 **老朋友**
 
@@ -40,9 +44,6 @@ comments: true
 - [林海草原 - 愿我经历的苦难你不要经历，愿我已有的幸福你触手可及](https://lhcy.org/)
 - [赫赫文王 - 不务正业的历史系学生一个](https://kqh.me/)
 - [三颗树阁 - 有人的地方，就有江湖](http://www.sksren.com/)
-
-
-
 - [天空之边 - 用心探知天空的边界](https://liyin.date/)
 - [Mashiro - 樱花庄的白猫](https://2heng.xin) 
 - [DreamWings - 继续踏上旅途，在没有你的春天](https://www.dreamwings.cn) 
@@ -60,21 +61,14 @@ comments: true
 - [Usubeni Fantasy](https://ssshooter.com/)
 - [攻城狮笔记](http://qumac.com/)
 
-**新朋友**
- 
-- [代代付 - I'm 代代付](https://ddf.im)
-- [Null - 一间生活](https://ncnccn.cn)
-- [Jdeal - Life is like a Design](https://www.jdeal.cn)
+---
 
 
-**与陕西有关**
-
-- [长安城下 - 大雁塔上唐僧梦 · 长安城下女儿情](https://cacx.cc)
-
-
-**Ink友链~**
-
-- [无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
+- [木遥的窗子](http://blog.farmostwood.net)
+- [大鹏志](http://www.pzhao.org/zh/)
+- [谢毅辉的博客](https://yihui.name/)
+- [生如夏花](http://www.xiatian.name/)
+- [狡猫三窝](https://slykiten.com/)
 
 
 
