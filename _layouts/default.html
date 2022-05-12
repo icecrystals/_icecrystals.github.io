@@ -43,6 +43,8 @@
 
       </section>
     </div>
+  
+  
     <footer>
       
       
@@ -54,29 +56,8 @@
     {% if site.github.is_project_page %}
       <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     {% endif %}
-      <p>
-        
-        
-        
-        {% assign count = 0 %}
-{% for post in site.posts %}
-    {% assign single_count = post.content | strip_html | strip_newlines | remove: " " | size %}
-    {% assign count = count | plus: single_count %}
-{% endfor %}
-
-{% if count > 10000 %}
-    文章字数统计： {{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }} 字
-{% else %}
-    文章字数统计： {{ count }} 字
-{% endif %} 
-        
-        
-        
-        
-        
-        
-        
-        
+      
+      
         <!-- 计算网站运行时间 -->
 <span style="font-size:12px;"><script language=JavaScript> 
  function secondToDate(second) {
@@ -128,10 +109,41 @@
 </script></span>
         
         
+      
+      
+      
+      
+      
+      
+      <p>
+        
+        
+        {% assign count = 0 %}
+  {% for post in site.posts %}
+    {% assign single_count = post.content | strip_html | strip_newlines | remove: " " | size %}
+    {% assign count = count | plus: single_count %}
+{% endfor %}
+
+{% if count > 10000 %}
+    文章字数统计： {{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }} 字
+{% else %}
+    文章字数统计： {{ count }} 字
+{% endif %} 
+        
+        | <span id="htmer_time"></span>
         
         
         
-        <br><span id="htmer_time" style="color: red;"></span>  ©好墨HaoInk-夏和帆的博客 2018-2022 | <a href="https://github.com/icecrystals/icecrystals.github.io">管理员登录</a> </p>
+        
+        
+        
+        
+        
+      
+        
+        
+        
+        <br>©好墨HaoInk-夏和帆的博客 2018-2022 | <a href="https://github.com/icecrystals/icecrystals.github.io">管理员登录</a> </p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>
