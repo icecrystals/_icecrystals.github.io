@@ -125,9 +125,9 @@
 {% endfor %}
 
 {% if count > 10000 %}
-    文章字数统计:{{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }} 字
+    文章字数统计: {{ count | divided_by: 10000 }} 万 {{ count | modulo: 10000 }} 字
 {% else %}
-    文章字数统计:{{ count }} 字
+    文章字数统计: {{ count }} 字
 {% endif %} 
         
         | <span id="htmer_time"></span>
