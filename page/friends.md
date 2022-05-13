@@ -24,6 +24,9 @@ comments: true
 
 ---
 
+**同时也在用Ink域名的博客**
+- [Wind.Ink / 风清的精神角落](https://wind.ink)
+- [WuSe.Ink / 无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
 
 **新朋友** 
 
@@ -31,7 +34,6 @@ comments: true
 
 - [代代付 - I'm 代代付](https://ddf.im)
 - [长安城下 - 大雁塔上唐僧梦 · 长安城下女儿情](https://cacx.cc)
-- [无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
 - [Null - 一间生活](https://ncnccn.cn)
 - [Jdeal - Life is like a Design](https://www.jdeal.cn)
 
