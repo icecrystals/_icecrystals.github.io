@@ -25,9 +25,7 @@ comments: true
 - [Wind.Ink / 风清的精神角落](https://wind.ink)
 - [WuSe.Ink / 无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
 
-**新朋友** 
-
-（这里是更改域名后新加的友链~）
+**新朋友** （这里是更改域名后新加的友链~）
 
 [代代付](https://ddf.im)/[长安城下](https://cacx.cc)/[Null](https://ncnccn.cn)/[Jdeal](https://www.jdeal.cn)
 
@@ -38,6 +36,7 @@ comments: true
 
 
 **博客社群**
+
 [十年之约](https://www.foreverblog.cn)/[个站商店](https://storeweb.cn)
 
 ---
