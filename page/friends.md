@@ -7,10 +7,9 @@ comments: true
 
 # 友情链接
 
-**同时也在用Ink域名的博客**
-- [Hao.Ink  / 好墨 - 夏和帆的博客](https://hao.ink)
-- [Wind.Ink / 风清的精神角落](https://wind.ink)
-- [WuSe.Ink / 无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
+**Ink域名**
+
+[好墨(Hao.Ink)](https://hao.ink)/[风清的精神角落(Wind.Ink)](https://wind.ink)/[无色墨水(WuSe.Ink)](https://wuse.ink/)/[述尔(AMore.Ink)](https://amore.ink)/[松烟阁(Edony.Ink)](https://https://www.edony.ink/)/[杯酒故事(BeiJiu.Ink)](https://beijiu.ink)
 
 **新朋友** （这里是更改域名后新加的友链~）
 
