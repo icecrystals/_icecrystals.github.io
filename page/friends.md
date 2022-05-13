@@ -12,11 +12,7 @@ comments: true
 
 也烦请添加我的网站信息：
 
-名称：好墨 
-
-介绍：夏和帆的博客
-
-头像： [头像链接](https://raw.githubusercontent.com/icecrystals/icecrystals.github.io/master/favicon.png)
+名称：好墨/介绍：夏和帆的博客/头像: [头像链接](https://raw.githubusercontent.com/icecrystals/icecrystals.github.io/master/favicon.png)
 
 **特别欢迎我的老乡（西安、咸阳、陕西），与喜欢书法（硬笔、软笔）的博友添加友链 ^_^**
 
@@ -37,7 +33,7 @@ comments: true
 
 **老朋友**
 
-[熊猫小A](https://blog.imalan.cn)/[渚碧](https://jubeny.com/)/[竹炉山房](https://synyan.cn)/[林海草原](https://lhcy.org/)/[赫赫文王](https://kqh.me/)/[三颗树阁](http://www.sksren.com/)/[天空之边](https://liyin.date/)/[Mashiro](https://2heng.xin) /[DreamWings](https://www.dreamwings.cn) /[猎风'S BLOG](https://www.northarea.tech/) /[Jadmin的博客](http://www.xxc520.cn) /[WQINF BLOG](https://wqinf.com/) /[门影塘畔](https://www.dongfang.name/) /[YJLAugus](https://www.cnblogs.com/yjlblog/)/[喵窝](https://nekohome.moenya.cat/)/[下午茶的轻音部](https://www.myeriri.com)/[辣椒の酱](https://removeif.github.io)/[DL小站](https://www.idalei.top/)/[JosePhilo](https://josephilo.com/)/[Catbaron](https://catbaron.com/)/[Usubeni Fantasy](https://ssshooter.com/)/[攻城狮笔记](http://qumac.com/)/[木遥的窗子](http://blog.farmostwood.net)/[大鹏志](http://www.pzhao.org/zh/)/[谢毅辉的博客](https://yihui.name/)/[生如夏花](http://www.xiatian.name/)/[狡猫三窝](https://slykiten.com/)/
+[熊猫小A](https://blog.imalan.cn)/[渚碧](https://jubeny.com/)/[竹炉山房](https://synyan.cn)/[林海草原](https://lhcy.org/)/[赫赫文王](https://kqh.me/)/[三颗树阁](http://www.sksren.com/)/[天空之边](https://liyin.date/)/[Mashiro](https://2heng.xin) /[DreamWings](https://www.dreamwings.cn) /[猎风'S BLOG](https://www.northarea.tech/) /[Jadmin的博客](http://www.xxc520.cn) /[WQINF BLOG](https://wqinf.com/) /[门影塘畔](https://www.dongfang.name/) /[YJLAugus](https://www.cnblogs.com/yjlblog/)/[喵窝](https://nekohome.moenya.cat/)/[下午茶的轻音部](https://www.myeriri.com)/[辣椒の酱](https://removeif.github.io)/[DL小站](https://www.idalei.top/)/[JosePhilo](https://josephilo.com/)/[Catbaron](https://catbaron.com/)/[Usubeni Fantasy](https://ssshooter.com/)/[攻城狮笔记](http://qumac.com/)/[木遥的窗子](http://blog.farmostwood.net)/[大鹏志](http://www.pzhao.org/zh/)/[谢毅辉的博客](https://yihui.name/)/[生如夏花](http://www.xiatian.name/)/[狡猫三窝](https://slykiten.com/)
 
 
 **博客社群**
