@@ -21,9 +21,9 @@ comments: true
 [熊猫小A](https://blog.imalan.cn)/[渚碧](https://jubeny.com/)/[竹炉山房](https://synyan.cn)/[林海草原](https://lhcy.org/)/[赫赫文王](https://kqh.me/)/[三颗树阁](http://www.sksren.com/)/[天空之边](https://liyin.date/)/[Mashiro](https://2heng.xin) /[DreamWings](https://www.dreamwings.cn) /[猎风'S BLOG](https://www.northarea.tech/) /[Jadmin的博客](http://www.xxc520.cn) /[WQINF BLOG](https://wqinf.com/) /[门影塘畔](https://www.dongfang.name/) /[YJLAugus](https://www.cnblogs.com/yjlblog/)/[喵窝](https://nekohome.moenya.cat/)/[下午茶的轻音部](https://www.myeriri.com)/[辣椒の酱](https://removeif.github.io)/[DL小站](https://www.idalei.top/)/[JosePhilo](https://josephilo.com/)/[Catbaron](https://catbaron.com/)/[Usubeni Fantasy](https://ssshooter.com/)/[攻城狮笔记](http://qumac.com/)/[木遥的窗子](http://blog.farmostwood.net)/[大鹏志](http://www.pzhao.org/zh/)/[谢毅辉的博客](https://yihui.name/)/[生如夏花](http://www.xiatian.name/)/[狡猫三窝](https://slykiten.com/)
 
 
-**博客社群**
+**博客聚合**
 
-[十年之约](https://www.foreverblog.cn)/[个站商店](https://storeweb.cn)
+[十年之约](https://www.foreverblog.cn)/[个站商店](https://storeweb.cn)/[萌国ICP](https://icp.gov.moe/)/[中文独立博客](https://github.com/timqian/chinese-independent-blogs)
 
 ---
 
