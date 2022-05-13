@@ -7,19 +7,6 @@ comments: true
 
 # 友情链接
 
-若要添加友链，请在本页留言板留言，非常感谢！
-留言格式：“网站名称+网站介绍”
-
-也烦请添加我的网站信息：
-
-名称：好墨/介绍：夏和帆的博客/头像: [头像链接](https://raw.githubusercontent.com/icecrystals/icecrystals.github.io/master/favicon.png)
-
-**特别欢迎我的老乡（西安、咸阳、陕西），与喜欢书法（硬笔、软笔）的博友添加友链 ^_^**
-
-*如果您看不到留言板或是在留言板无法评论，可能是国内网络原因。您也可以发送邮件到 icecrystals@163.com 申请友链！*
-
----
-
 **同时也在用Ink域名的博客**
 - [Hao.Ink  / 好墨 - 夏和帆的博客](https://hao.ink)
 - [Wind.Ink / 风清的精神角落](https://wind.ink)
@@ -38,6 +25,19 @@ comments: true
 **博客社群**
 
 [十年之约](https://www.foreverblog.cn)/[个站商店](https://storeweb.cn)
+
+---
+
+若要添加友链，请在本页留言板留言，非常感谢！
+留言格式：“网站名称+网站介绍”
+
+也烦请添加我的网站信息：
+
+名称：好墨/介绍：夏和帆的博客/头像: [头像链接](https://raw.githubusercontent.com/icecrystals/icecrystals.github.io/master/favicon.png)
+
+**特别欢迎我的老乡（西安、咸阳、陕西），与喜欢书法（硬笔、软笔）的博友添加友链 ^_^**
+
+*如果您看不到留言板或是在留言板无法评论，可能是国内网络原因。您也可以发送邮件到 icecrystals@163.com 申请友链！*
 
 ---
 
