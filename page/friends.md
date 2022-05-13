@@ -21,6 +21,7 @@ comments: true
 ---
 
 **同时也在用Ink域名的博客**
+- [Hao.Ink  / 好墨 - 夏和帆的博客](https://hao.ink)
 - [Wind.Ink / 风清的精神角落](https://wind.ink)
 - [WuSe.Ink / 无色墨水 - 一个人的领地，非一人](https://wuse.ink/)
 
