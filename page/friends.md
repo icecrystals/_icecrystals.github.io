@@ -23,7 +23,7 @@ comments: true
 
 **博客聚合**
 
-[十年之约](https://www.foreverblog.cn) / [个站商店](https://storeweb.cn) / [萌国ICP](https://icp.gov.moe/) / [中文独立博客](https://github.com/timqian/chinese-independent-blogs) / [开往：友链接力](https://github.com/travellings-link/travellings)
+[十年之约](https://www.foreverblog.cn) / [个站商店](https://storeweb.cn) / [萌国ICP](https://icp.gov.moe/) / [中文独立博客](https://github.com/timqian/chinese-independent-blogs) / [开往:友链接力](https://github.com/travellings-link/travellings)
 
 ---
 
