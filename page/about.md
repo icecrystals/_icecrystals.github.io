@@ -3,8 +3,6 @@
 
 这里是夏和帆的个人博客。博客程序使用Jekyll，托管于Github Pages。
 
-<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JgnLVsy4USqzBhmS/quote.js?theme=#E6E9ED,#333333,#F4F2F2,#F7F6F6,#FFFFFF,#1690FF,12&f=12&display=0,0,1,1,0,0,1,1"></script>
-
 我会在这里分享：
 
 - 我的硬笔书法练字历程（该条亦为本博客名称“好墨”和域名“Hao.Ink”的注册初心）
