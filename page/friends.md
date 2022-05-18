@@ -32,7 +32,7 @@ comments: true
 
 也烦请添加我的网站信息：
 
-名称:好墨 / 介绍:夏和帆的博客 / 头像:[头像链接](https://raw.githubusercontent.com/icecrystals/icecrystals.github.io/master/favicon.png)
+名称:好墨 / 介绍:夏和帆的博客 / 头像:[头像链接](https://s2.loli.net/2022/05/18/zJkjaKv4P53Mgsb.png)
 
 **特别欢迎我的老乡（西安、咸阳、陕西），与喜欢书法（硬笔、软笔）的博友添加友链 ^_^**
 
