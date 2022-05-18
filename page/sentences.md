@@ -5,6 +5,12 @@
 
 ---
 
+*你患得患失太在意从前又太担心将来。有句话说得好：昨天，时段历史；明天，是个谜团；而今天，是天赐的礼物。像珍惜礼物那样珍惜今天。*
+
+——《功夫熊猫》
+
+---
+
 *I walk slowly, but I never walk backwards.*
 
 —— Abraham Lincoln
