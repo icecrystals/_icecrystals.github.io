@@ -3,7 +3,7 @@ description: 夏和帆的博客
 author: 夏和帆
 show_downloads: false
 google_analytics: G-YX76K9MB25
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
 github:
   is_project_page: false
 plugins:
