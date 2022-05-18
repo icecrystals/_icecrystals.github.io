@@ -1,3 +1,5 @@
+[好墨：夏和帆的博客](https://hao.ink)
+
 这是我的个人博客
 
 This is my personal blog.
