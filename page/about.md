@@ -1,6 +1,6 @@
 # 关于
 
-<img src="/favicon.png" width="200"> 
+<img src="/icon.png" width="200"> 
 
 这里是夏和帆的个人博客。博客程序使用Jekyll，托管于Github Pages。
 
