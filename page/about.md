@@ -23,3 +23,13 @@
 
 [邮箱地址解码请访问](https://www.online-toolz.com/tools/text-encryption-decryption.php)
 
+--- 
+
+# 建站历史 & 持有过的域名
+
+- 2017 使用WordPress搭建了个人博客，域名：lovehzk.com (已转让)
+- 2018 使用Github Pages重建了个人博客，域名：xiahefan.cc (已转让)
+- 2019 使用WordPress重建了个人博客，域名：dayday.plus (已停更)
+- 2021 使用Github Pages重建了个人博客，域名：hao.ink (本站)
+
+
