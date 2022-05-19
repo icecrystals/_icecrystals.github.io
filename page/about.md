@@ -1,6 +1,6 @@
 # 关于
 
-<img src="/icon.png" width="150"> 
+<img src="/icon/好墨1.png" width="150"> 
 
 这里是夏和帆的个人博客。博客程序使用Jekyll，托管于Github Pages。
 
