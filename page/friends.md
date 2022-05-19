@@ -9,7 +9,7 @@ comments: true
 
 **Ink域名**
 
-[好墨(Hao.Ink)](https://hao.ink) / [风清的精神角落(Wind.Ink)](https://wind.ink) / [无色墨水(WuSe.Ink)](https://wuse.ink/)/[述尔(AMore.Ink)](https://amore.ink) / [松烟阁(Edony.Ink)](https://www.edony.ink/) / [杯酒故事(BeiJiu.Ink)](https://beijiu.ink)
+[好墨(Hao.Ink)](https://hao.ink) / [风清的精神角落(Wind.Ink)](https://wind.ink) / [无色墨水(WuSe.Ink)](https://wuse.ink/)/[述尔(AMore.Ink)](https://amore.ink) / [松烟阁(Edony.Ink)](https://www.edony.ink/) / [杯酒故事(BeiJiu.Ink)](https://beijiu.ink) / [冷酷蹦迪](https://www.hezicola.com/)
 
 **新朋友** （这里是更改域名后新加的友链~）
 
