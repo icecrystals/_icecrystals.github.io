@@ -257,6 +257,10 @@ blockquote {
 
 img {
   max-width:100%;
+backface–visibility: hidden;
+–webkit–backface–visibility: hidden;
+–moz–backface–visibility: hidden;
+–ms–backface–visibility: hidden;
 }
 
 code, pre {
