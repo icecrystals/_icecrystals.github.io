@@ -13,7 +13,7 @@ comments: true
 [代代付](https://ddf.im) / [长安城下](https://cacx.cc) / [Null](https://ncnccn.cn) / [Jdeal](https://www.jdeal.cn) / [冷酷蹦迪](https://www.hezicola.com/)
 
 
-[赫赫文王](https://kqh.me/) / [生如夏花](http://www.xiatian.name/) / [DreamWings](https://www.dreamwings.cn) /
+[赫赫文王](https://kqh.me/) / [生如夏花](http://www.xiatian.name/) / [DreamWings](https://www.dreamwings.cn) / [WQINF BLOG](https://wqinf.com/) 
 
 **博客聚合**
 
