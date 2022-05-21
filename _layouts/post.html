@@ -2,6 +2,10 @@
 layout: default
 ---
 
+全文约{{ page.content | strip_html | strip_newlines | remove: " " | size }}
+
+{{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 
+
 {{ content }}
 
 {% if page.comments %}
