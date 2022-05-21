@@ -28,7 +28,7 @@
 # 网站统计
 
 
-<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JgnLVsy4USqzBhmS/quote.js?theme=#1690FF,#333333,#999999,#333333,#FFFFFF,#1690FF,18&col=true&f=18&badge=icon_0&icon=right"></script>
+<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JgnLVsy4USqzBhmS/quote.js?theme=#1690FF,#333333,#999999,#333333,#FFFFFF,#1690FF,14&col=true&f=14&badge=icon_0&icon=right"></script>
 
 
 --- 
