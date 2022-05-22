@@ -23,21 +23,14 @@
 
 [邮箱地址解码请访问](https://www.online-toolz.com/tools/text-encryption-decryption.php)
 
---- 
-
-# 网站统计
-
-
-<script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/JgnLVsy4USqzBhmS/quote.js?theme=#1690FF,#333333,#999999,#333333,#FFFFFF,#1690FF,14&col=true&f=14&badge=icon_0&icon=right"></script>
-
 
 --- 
 
 # 建站历史 & 持有过的域名
 
-- 2017 使用WordPress搭建了个人博客，域名：lovehzk.com (已转让)
-- 2018 使用Github Pages重建了个人博客，域名：xiahefan.cc (已转让)
-- 2019 使用WordPress重建了个人博客，域名：dayday.plus (已停更)
-- 2021 使用Github Pages重建了个人博客，域名：hao.ink (本站)
+- 2017 使用WordPress初建了个人博客。名称：“ZK出版”，域名：lovehzk.com (已转让)
+- 2018 使用Github Pages重建了个人博客。名称：“夏和帆的博客”，域名：xiahefan.cc (已转让)
+- 2019 使用WordPress重建了个人博客。名称：“夏和帆的博客”，域名：dayday.plus (已停更)
+- 2022 使用Github Pages重建了个人博客。名称：“好墨：夏和帆的博客”，域名：hao.ink (本站)
 
 
