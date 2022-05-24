@@ -52,7 +52,18 @@
 
 ### 收藏的视频
 
+《从牛顿到爱因斯坦，10分钟见证人类400年科学史》
+
 <iframe src="//player.bilibili.com/player.html?aid=371267373&bvid=BV1LZ4y1u7ob&cid=217162121&page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+《顶尖航拍·遇见西安》
 
+<iframe src="//player.bilibili.com/player.html?aid=80526761&bvid=BV1gJ411W75p&cid=137810286&page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+《ETH Zuirch · Ready?》
+
+<iframe src="//player.bilibili.com/player.html?aid=11351536&bvid=BV1Ax411h7Ki&cid=18771615&page=2" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+《当年的篮球女孩你还记得吗？她如今活成了这个样子。》
+
+<iframe src="//player.bilibili.com/player.html?aid=766734614&bvid=BV1Wr4y1r7Q8&cid=513186813&page=1" width="100%" height="500" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
